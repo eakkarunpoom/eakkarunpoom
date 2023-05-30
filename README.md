@@ -4,9 +4,9 @@
 I'm Junior Software Developer Learner at Generation Thailand. 
 I'm looking job about FrontEnd developer or Fullstack developer. 
 ## My Skills 
-1. HTML5
-2. CSS
-3. Javascript
+1. HTML5                5.NodeJS
+2. CSS                  6.ExpressJS
+3. Javascript           7.MongoDB
 4. ReactJS
 
 ### Portfolio
