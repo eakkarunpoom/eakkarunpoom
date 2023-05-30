@@ -2,7 +2,7 @@
 ### Welcome to my Github Profile 
 
 I'm Junior Software Developer Learner at Generation Thailand. 
-I'm looking job about FrontEnd developer or Fullstack developer. 
+I'm looking job about FrontEnd developer or Backend developer. 
 ## My Skills 
 1. HTML5                5.NodeJS
 2. CSS                  6.ExpressJS
