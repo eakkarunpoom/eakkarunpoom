@@ -4,10 +4,13 @@
 I'm Junior Software Developer Learner at Generation Thailand. 
 I'm looking job about FrontEnd developer or Backend developer. 
 ## My Skills 
-1. HTML5                5.NodeJS
-2. CSS                  6.ExpressJS
-3. Javascript           7.MongoDB
+1. HTML5              
+2. CSS                  
+3. Javascript           
 4. ReactJS
+5. NodeJS
+6. ExpressJS
+7. MongoDB
 
 ### Portfolio
 https://webportfolio-b0jluhb6r-eakkarunpoom.vercel.app/
